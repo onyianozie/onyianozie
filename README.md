@@ -1,6 +1,6 @@
 # Hello!, I'm Onyi you can also call me Dre!
 
-# I'm a Multimedia Specialist turned Web Developer and Product Designer from Toronto,Canada.
+I'm a Multimedia Specialist turned Web Developer and Product Designer from Toronto,Canada.
 
 👀 I’m interested in Software Development and UX Design and I'm currently learning Web Development as well collaborate on development and design projects.
 
@@ -15,10 +15,10 @@ Outside of working on lovely projects, you'll most likely find me pretending to 
 [<img align="left" alt="" width="22px" src="https://fontawesome.com/v5.15/icons/dribbble?style=brands"/>][dribble]
 [<i class="fab fa-dribbble" width="22px" align="left" src="https://fontawesome.com/v5.15/icons/dribbble?style=brands"></i>][dribble]
 
-<br />
+
 ### Languages and Tools:
 
-# HTML | CSS | Javascript
+HTML | CSS | Javascript
 
 
 
