@@ -13,9 +13,12 @@ Outside of working on lovely projects, you'll most likely find me pretending to 
 [<img align="left" alt="" width="22px" src="https://fontawesome.com/v5.15/icons/globe?style=solid"/>][portfolio-2]
 [<img align="left" alt="" width="22px" src="https://fontawesome.com/v5.15/icons/linkedin-in?style=brands"/>][linkedin]
 [<img align="left" alt="" width="22px" src="https://fontawesome.com/v5.15/icons/dribbble?style=brands"/>][dribble]
+[<i class="fab fa-dribbble" width="22px" align="left" src="https://fontawesome.com/v5.15/icons/dribbble?style=brands"></i>][dribble]
 
 <br />
 ### Languages and Tools:
+
+# HTML | CSS | Javascript
 
 
 
