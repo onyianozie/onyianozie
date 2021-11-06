@@ -11,7 +11,7 @@ Outside of working on lovely projects, you'll most likely find me pretending to 
 
 ### Languages and Tools:
 
-HTML | CSS | Javascript
+HTML | CSS | SASS | Javascript | React | API | Firebase |
 
 
 
