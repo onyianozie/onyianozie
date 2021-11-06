@@ -2,7 +2,7 @@
 
 I'm a Multimedia Specialist turned Web Developer and Product Designer from Toronto,Canada.
 
-👀 I’m interested in Software Development and UX Design and I'm currently learning Web Development as well collaborate on development and design projects.
+👀 I’m interested in Front-End Software Development and UX Design and I'm currently learning Web Development as well collaborate on development and design projects.
 
 I'm also currently learning Javascript, Python and React.
 
@@ -16,5 +16,5 @@ HTML | CSS | Javascript
 
 
 [linkedin]:https://www.linkedin.com/in/andre-anozie/
-[portfolio-2]:https://onyiano.com/
+[portfolio-2]:https://onyiano.com/web-dev
 [dribble]:https://dribbble.com/onyianozie
