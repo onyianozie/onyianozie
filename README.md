@@ -11,7 +11,7 @@ Outside of working on these lovely projects, you'll most likely find me pretendi
 
 ### Languages and Tools:
 
-HTML | CSS | SASS | Javascript | React | API | Firebase | MySQL | jQuery
+HTML | CSS | SCSS | Javascript | React | API | Firebase | MySQL | jQuery
 
 
 
