@@ -1,10 +1,8 @@
 # Hello!, I'm Onyi you can also call me Dre!
 
-I'm a Multimedia Specialist turned Web Developer and Product Designer from Toronto,Canada.
+I'm a Software Developer and Product Designer from Toronto,Canada.
 
-👀 I’m interested in Front-End Software Development and UX/UI Design and I'm currently learning Web Development at Juno College of Technology, as well as collaborating on freelance development, design and marketing conent creation projects with clients.
-
-I'm also currently learning Javascript, Python and React.
+👀 I’m interested in Front-End Software Development, UX/UI Design and collaborating on freelance development, design and marketing conent creation projects with clients.
 
 Outside of working on these lovely projects, you'll most likely find me pretending to lift weights🏋🏽, bike riding trails🚲, camping 🏕, or enjoying a glass of aged smokey bourbon or dry red 🍷.
 
