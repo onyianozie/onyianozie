@@ -1,8 +1,8 @@
 # Hello!, I'm Onyi you can also call me Dre!
 
-I'm a Software Developer and Product Designer from Toronto,Canada.
+I'm a Software Developer, Digital Product Designer and a Certified Scrum Master from Toronto,Canada.
 
-👀 I’m interested in Front-End Software Development, UX/UI Design and collaborating on freelance development, design and marketing conent creation projects with clients.
+👀 My passions lie within Development, Digital Product Design and Building businesses.
 
 Outside of working on these lovely projects, you'll most likely find me pretending to lift weights🏋🏽, bike riding trails🚲, camping 🏕, or enjoying a glass of aged smokey bourbon or dry red 🍷.
 
@@ -13,6 +13,6 @@ HTML | CSS | SCSS | Javascript | React | API | Firebase | MySQL | jQuery
 
 
 
-[linkedin]:https://www.linkedin.com/in/andre-anozie/
+[linkedin]:https://www.linkedin.com/in/onyi-anozie/
 [portfolio-2]:https://onyiano.com/web-dev
 [dribble]:https://dribbble.com/onyianozie
