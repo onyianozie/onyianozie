@@ -1,6 +1,6 @@
 # Hello!, I'm Dre!
 
-I'm a Software Developer, Digital Product Designer and a Certified Scrum Master from Toronto,Canada.
+I'm a Frontend Developer, Digital Product Designer and a Certified Scrum Master from Toronto,Canada.
 
 👀 My passions lie within Software Development, Digital Product Design, Project Management and Business Development.
 
