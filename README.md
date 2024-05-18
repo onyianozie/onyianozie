@@ -1,4 +1,4 @@
-# Hello!, I'm Dre!
+# Hello!, I'm Andre!
 
 I'm a Frontend Developer, Digital Product Designer, and a Certified Scrum Master.
 
