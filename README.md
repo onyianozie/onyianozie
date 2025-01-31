@@ -1,6 +1,6 @@
 # Hello!, I'm Andre!
 
-I'm a Frontend Developer, Digital Product Designer, and a Certified Scrum Master.
+I'm a Frontend Developer, UI/UX Product Designer, and a Certified Scrum Master.
 
 👀 My passions lie in Software Development, Digital Product Design, Project Management, and Business Development.
 
